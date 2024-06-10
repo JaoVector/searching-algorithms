@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\bin\Debug\net8.0\Binary Search Algorithm.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\bin\Debug\net8.0\Binary Search Algorithm.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\bin\Debug\net8.0\Binary Search Algorithm.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\bin\Debug\net8.0\Binary Search Algorithm.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\bin\Debug\net8.0\Binary Search Algorithm.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\refint\Binary Search Algorithm.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\Binary Search Algorithm.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Searching\Binary Search Algorithm\obj\Debug\net8.0\ref\Binary Search Algorithm.dll
